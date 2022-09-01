@@ -1,0 +1,22 @@
+/*redes sociales*/
+.navbar-brand{
+    background-color: #49c0c0c5 ;
+    border: ;
+     }
+
+    i.fa-brands.fa-square-facebook.fa-2xl:hover {
+    color: blue;
+    transition: transform 0.3s ease-in-out;
+    transform: scale(1.40);
+    }
+    i.fa-brands.fa-instagram.fa-2xl:hover {
+      color: rgb(194, 4, 109);  
+      color: rgb(194, 4, 109); 
+      transition: transform 0.3s ease-in-out;
+    transform: scale(1.40); 
+    }
+    i.fa-brands.fa-square-github.fa-2xl:hover {
+        color: black;
+        transition: transform 0.3s ease-in-out;
+    transform: scale(1.40);
+    }
